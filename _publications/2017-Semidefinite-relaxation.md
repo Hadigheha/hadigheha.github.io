@@ -6,7 +6,7 @@ excerpt: 'It is a well-known fact that finding a minimum dominating set and cons
 date: 2017-1-1
 venue: 'Iranian Journal of Operations Research'
 paperurl: 'http://iors.ir/journal/article-1-434-en.html&sw=Graph'
-citation: ''
+
 ---
 Abstract
 ======

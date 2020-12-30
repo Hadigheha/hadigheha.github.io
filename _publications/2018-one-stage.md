@@ -6,7 +6,7 @@ excerpt: 'Uncertainty is one of the intrinsic features of natural phenomenon and
 date: 2018-1-1
 venue: 'Journal of Hyperstructures'
 paperurl: 'http://www.jhs-uma.com/index.php/JHSMS/article/download/325/118'
-citation: ''
+
 ---
 Abstract
 ======

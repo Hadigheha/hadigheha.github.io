@@ -6,7 +6,7 @@ excerpt: 'This paper addresses the optimal scheduling of straight pipelines feat
 date: 2016-9-1
 venue: 'Computers & Operations Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0305054816300582'
-citation: ''
+
 ---
 Abstract
 ======

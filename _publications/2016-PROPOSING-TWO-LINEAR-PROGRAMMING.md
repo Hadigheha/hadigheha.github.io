@@ -6,7 +6,7 @@ excerpt: 'Uncertainty is one of the intrinsic characteristics of natural phenome
 date: 2016-10-1
 venue: 'Journal of Operational Research in Its Applications'
 paperurl: 'http://jamlu.liau.ac.ir/browse.php?a_id=1398&sid=1&slc_lang=fa'
-citation: ''
+
 ---
 Abstract
 ======

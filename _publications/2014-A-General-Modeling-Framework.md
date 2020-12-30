@@ -6,7 +6,7 @@ excerpt: 'Common carrier pipelines are one of the most economic modes for transp
 date: 2014-4-2
 venue: 'Industrial & Engineering Chemistry Research'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/ie4038032'
-citation: ''
+
 ---
 Abstract
 ======

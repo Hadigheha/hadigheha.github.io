@@ -6,7 +6,7 @@ excerpt: 'Understanding the effect of variation of the coefficient matrix in lin
 date: 2015-6-19
 venue: 'Asia-Pacific Journal of Operational Research'
 paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/S021759591550013X'
-citation: ''
+
 ---
 Abstract
 ======

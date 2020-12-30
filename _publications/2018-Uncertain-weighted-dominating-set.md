@@ -6,7 +6,7 @@ excerpt: 'Indeterminacy is an intrinsic characteristics of real-world data. Wher
 date: 2018-2-1
 venue: 'Soft Computing'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360835220303910'
-citation: ''
+
 ---
 Abstract
 ======

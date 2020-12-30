@@ -6,7 +6,7 @@ excerpt: 'Mother-infant vocalization from distance in some animal species such a
 date: 2016-1-1
 venue: 'Journal of Hyperstructures'
 paperurl: 'http://www.jhs-uma.com/index.php/JHSMS/article/view/251'
-citation: ''
+
 ---
 Abstract
 ======

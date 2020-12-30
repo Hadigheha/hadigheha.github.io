@@ -6,7 +6,7 @@ excerpt: 'Detailed scheduling of long-distance multiproduct pipelines has receiv
 date: 2015-9-23
 venue: 'Industrial & Engineering Chemistry Research'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b01440'
-citation: ''
+
 ---
 Abstract
 ======

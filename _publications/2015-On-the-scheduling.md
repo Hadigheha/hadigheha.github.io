@@ -6,7 +6,7 @@ excerpt: 'Common carrier pipelines are the best suited mode for transporting lar
 date: 2015-9-1
 venue: 'Optimization and engineering'
 paperurl: 'https://link.springer.com/article/10.1007/s11081-014-9263-9'
-citation: ''
+
 ---
 Abstract
 ======

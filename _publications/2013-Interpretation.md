@@ -6,7 +6,7 @@ excerpt: 'Cash is the driving power of all business and cash-flow statement is o
 date: 2013-6-1
 venue: 'MATEMATIKA: Malaysian Journal of Industrial and Applied Mathematics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360835220303910'
-citation: ''
+
 ---
 Abstract
 ======

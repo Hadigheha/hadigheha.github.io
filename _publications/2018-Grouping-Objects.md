@@ -6,7 +6,7 @@ excerpt: 'Grouping datasets plays an important role in many scientific researche
 date: 2018-1-1
 venue: 'Journal of Artificial Intelligence & Data Mining (JAIDM)'
 paperurl: 'http://jad.shahroodut.ac.ir/article_988_c658adc85a5905c687f13853dcb213e1.pdf'
-citation: ''
+
 ---
 Abstract
 ======

@@ -6,7 +6,7 @@ excerpt: ' In deterministic DEA models, precise values are assigned to input and
 date: 2018-5-1
 venue: 'Annals of Operations Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360835220303910'
-citation: ''
+
 ---
 Abstract
 ======

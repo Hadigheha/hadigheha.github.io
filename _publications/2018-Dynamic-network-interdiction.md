@@ -6,7 +6,7 @@ excerpt: 'This paper proposes an uncertain multi-period bi-level network interdi
 date: 2018-4-1
 venue: 'International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems'
 paperurl: 'https://www.worldscientific.com/doi/pdf/10.1142/S0218488518500174?src=recsys'
-citation: ''
+
 ---
 Abstract
 ======

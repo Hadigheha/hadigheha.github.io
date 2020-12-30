@@ -6,7 +6,7 @@ excerpt: 'This paper considers a novel formulation of the multi-period network i
 date: 2017-7-1
 venue: 'Acta Mathematicae Applicatae Sinica, English Series'
 paperurl: 'https://link.springer.com/article/10.1007/s10255-017-0687-9'
-citation: ''
+
 ---
 Abstract
 ======

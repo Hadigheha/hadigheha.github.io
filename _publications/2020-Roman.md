@@ -6,7 +6,7 @@ excerpt: 'In a connected simple graph, the weighted Roman domination problem is 
 date: 2020-2-1
 venue: 'Soft Computing'
 paperurl: 'https://link.springer.com/article/10.1007/s00500-019-03811-z'
-citation: ''
+
 ---
 Abstract
 ======

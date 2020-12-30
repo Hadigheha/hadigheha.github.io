@@ -6,7 +6,7 @@ excerpt: ' Floods as natural phenomena exist and will continue to occur. No manm
 date: 2016-9-1
 venue: 'Water Resources Management'
 paperurl: 'https://link.springer.com/article/10.1007/s11269-016-1272-3'
-citation: ''
+
 ---
 Abstract
 ======

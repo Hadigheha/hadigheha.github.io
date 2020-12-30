@@ -6,7 +6,7 @@ excerpt: ' Fair premium pricing is one of the main concerns in insurance texts. 
 date: 2018-1-1
 venue: 'JOURNAL OF OPERATIONAL RESEARCH AND ITS APPLICATIONS (JOURNAL OF APPLIED MATHEMATICS)'
 paperurl: 'http://jamlu.liau.ac.ir'
-citation: ''
+
 ---
 Abstract
 ======

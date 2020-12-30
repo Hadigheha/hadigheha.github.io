@@ -6,7 +6,7 @@ excerpt: 'In data envelopment analysis models, values of inputs, outputs and the
 date: 2019-6-3
 venue: 'Journal of the Operational Research Society'
 paperurl: 'https://orsociety.tandfonline.com/doi/abs/10.1080/01605682.2018.1468858'
-citation: ''
+
 ---
 Abstract
 ======

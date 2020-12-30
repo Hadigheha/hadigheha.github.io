@@ -6,7 +6,7 @@ excerpt: 'In this study, we consider a family of uni-parametric linear optimizat
 date: 2020-9-7
 venue: 'Journal of Mathematical Modeling'
 paperurl: 'https://jmm.guilan.ac.ir/article_4259.html'
-citation: ''
+
 ---
 Abstract
 ======

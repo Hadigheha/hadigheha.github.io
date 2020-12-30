@@ -6,7 +6,7 @@ excerpt: 'Identification of master regulatory genes is one of the primary challe
 date: 2020-6-1
 venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8490740'
-citation: ''
+
 ---
 Abstract
 ======

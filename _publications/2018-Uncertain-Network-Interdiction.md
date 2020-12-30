@@ -6,7 +6,7 @@ excerpt: 'Indeterminacy is an intrinsic characteristic of a decision making proc
 date: 2018-5-1
 venue: 'Journal of Uncertain Systems'
 paperurl: 'http://www.worldacademicunion.com/journal/jus/jusVol12No2paper05.pdf'
-citation: ''
+
 ---
 Abstract
 ======
