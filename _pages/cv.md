@@ -114,10 +114,10 @@ Skills
    * Writing: Native 
 
 * Computer skills
- * MatLab
- * CPLEX
- * GAMS
- * LATEX
+   * MatLab
+   * CPLEX
+   * GAMS
+   * LATEX
  
 Publications
 ======

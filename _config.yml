@@ -86,7 +86,7 @@ author:
   bio              : "Prof. in Optimization"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TP0pLmEAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Alireza_Ghaffari-Hadigheh"
