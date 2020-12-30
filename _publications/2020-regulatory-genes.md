@@ -3,7 +3,7 @@ title: "Identification of minimum set of master regulatory genes in gene regulat
 collection: publications
 permalink: /publication/2020-regulatory-genes
 excerpt: 'Identification of master regulatory genes is one of the primary challenges in systems biology.'
-date: 2020-6
+date: 2020-6-1
 venue: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8490740'
 citation: ''

@@ -3,7 +3,7 @@ title: "Roman domination problem with uncertain positioning and deployment costs
 collection: publications
 permalink: /publication/2020-Roman
 excerpt: 'In a connected simple graph, the weighted Roman domination problem is considered at which the cost of positioning at each vertex is imposed in addition to the costs of potential deployments from a vertex to some of its neighboring vertices.'
-date: 2020-2
+date: 2020-2-1
 venue: 'Soft Computing'
 paperurl: 'https://link.springer.com/article/10.1007/s00500-019-03811-z'
 citation: ''
