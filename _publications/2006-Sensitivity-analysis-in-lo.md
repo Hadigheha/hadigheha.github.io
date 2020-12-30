@@ -1,5 +1,5 @@
 ---
-title: "Sensitivity analysis in linear optimization: Invariant support set intervals"
+title: "Sensitivity analysis in linear optimization, Invariant support set intervals"
 collection: publications
 permalink: /publication/2006-Sensitivity-analysis-in-lo
 excerpt: 'Sensitivity analysis is one of the most interesting and preoccupying areas in optimization. Many attempts are made to investigate the problem’s behavior when the input data changes.'
