@@ -6,7 +6,7 @@ excerpt: ''
 date: 2007-1-1
 venue: 'ADVANCED MODELING and OPTIMIZATION'
 paperurl: 'https://camo.ici.ro/journal/vol9/v9a6.pdf'
-citation: ''
+
 ---
 Abstract
 ======

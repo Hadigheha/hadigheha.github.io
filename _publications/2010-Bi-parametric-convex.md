@@ -6,7 +6,7 @@ excerpt: 'In this paper, we consider the convex quadratic optimization problem w
 date: 2010-4-1
 venue: 'Optimization Methods & Software'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10556780903239568'
-citation: ''
+
 ---
 Abstract
 ======

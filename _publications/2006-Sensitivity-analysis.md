@@ -6,7 +6,7 @@ excerpt: 'Support set invariancy sensitivity analysis is concerned with the find
 date: 2006-5-1
 venue: 'INFOR: Information Systems and Operational Research'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/03155986.2006.11732745'
-citation: ''
+
 ---
 Abstract
 ======

@@ -6,7 +6,7 @@ excerpt: 'Active constraint set invariancy sensitivity analysis is concerned wit
 date: 2007-6-1
 venue: 'Journal of optimization theory and applications'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s10957-007-9201-5.pdf'
-citation: ''
+
 ---
 Abstract
 ======

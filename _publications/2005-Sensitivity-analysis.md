@@ -6,7 +6,7 @@ excerpt: 'In sensitivity analysis one wants to know how the problem and the opti
 date: 2005-2-1
 venue: 'Optimization'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/02331930412331323854'
-citation: ''
+
 ---
 Abstract
 ======

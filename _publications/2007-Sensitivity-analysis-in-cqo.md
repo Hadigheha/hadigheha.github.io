@@ -6,7 +6,7 @@ excerpt: 'In this paper we study the behavior of Convex Quadratic Optimization p
 date: 2007-9-2
 venue: 'Algorithmic Operations Research'
 paperurl: 'https://journals.lib.unb.ca/index.php/AOR/article/view/4624'
-citation: ''
+
 ---
 Abstract
 ======

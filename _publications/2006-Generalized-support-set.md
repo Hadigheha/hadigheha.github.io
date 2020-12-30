@@ -6,7 +6,7 @@ excerpt: 'Support set invariancy sensitivity analysis deals with finding the ran
 date: 2006-6-1
 venue: 'Journal of Industrial & Management Optimization'
 paperurl: 'https://www.aimsciences.org/article/doi/10.3934/jimo.2006.2.1'
-citation: ''
+
 ---
 Abstract
 ======

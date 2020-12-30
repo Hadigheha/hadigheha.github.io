@@ -6,7 +6,7 @@ excerpt: 'In support set expansion sensitivity analysis, one concerns to find th
 date: 2007-10-1
 venue: 'Optimization Methods and Software'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10556780600954097'
-citation: ''
+
 ---
 Abstract
 ======

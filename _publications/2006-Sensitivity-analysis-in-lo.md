@@ -6,7 +6,7 @@ excerpt: 'Sensitivity analysis is one of the most interesting and preoccupying a
 date: 2006-3-16
 venue: 'European Journal of Operational Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0377221705002808'
-citation: ''
+
 ---
 Abstract
 ======
