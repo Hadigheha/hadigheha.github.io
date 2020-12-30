@@ -1,9 +1,9 @@
 ---
 title: "Uncertain Network Interdiction Problem"
 collection: publications
-permalink: /publication/2018-Uncertain-Network-Interdiction
+permalink: /publication/2018-uncertain-network-interdiction
 excerpt: 'Indeterminacy is an intrinsic characteristic of a decision making process. Sometimes there are no samples, and historical data are not enough for estimating an appropriate probability distribution for an indeterminate variable.'
-date: 2018-5
+date: 2018-5-1
 venue: 'Journal of Uncertain Systems'
 paperurl: 'http://www.worldacademicunion.com/journal/jus/jusVol12No2paper05.pdf'
 citation: ''
