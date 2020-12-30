@@ -5,7 +5,7 @@ permalink: /publication/2018-PREMIUMS
 excerpt: ' Fair premium pricing is one of the main concerns in insurance texts. In this paper, by considering the demand functions, costs of claims and values at risks in homogenous risk groups of cargo insurance policies, we determine the optimum premiums.'
 date: 2018-1-1
 venue: 'JOURNAL OF OPERATIONAL RESEARCH AND ITS APPLICATIONS (JOURNAL OF APPLIED MATHEMATICS)'
-paperurl: 'http://jamlu.liau.ac.ir/article-1-1521-fa.html&sw=%D8%BA%D9%81%D8%A7%D8%B1%DB%8C'
+paperurl: 'http://jamlu.liau.ac.ir'
 citation: ''
 ---
 Abstract
