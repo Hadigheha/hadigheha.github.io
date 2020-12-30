@@ -3,7 +3,7 @@ title: "A novel monolithic MILP framework for lot-sizing and scheduling of multi
 collection: publications
 permalink: /publication/2015-A-novel-monolithic
 excerpt: 'Detailed scheduling of long-distance multiproduct pipelines has received growing attention in the past few years. It helps the planner to reduce the number of pump and segment switches between active and idle conditions to obtain savings on pump operating and maintenance costs.'
-date: 201509-23
+date: 2015-9-23
 venue: 'Industrial & Engineering Chemistry Research'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.iecr.5b01440'
 citation: ''
