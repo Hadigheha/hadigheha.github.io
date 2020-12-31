@@ -25,71 +25,83 @@ Education
 Professional experience
 ======
 * 2017 (Dec.- ...) Professor, 
-  * Azarbaijan Shahid Madani University, Tabriz, Islamic Republic of Iran 
+  * Azarbaijan Shahid Madani University, Tabriz, Iran 
   * Duties included: Teaching, Research
 
 * 2019 (Jan.)-2019(July) Part-time lecturer
-  * Tilburg University, Dept. of Econometrics and Operations Research
+  * Tilburg University, Dept. of Econometrics and Operations Research, Tilburg, The Netherlands
   * Duties included: Research
   
 * 2018 (Dec.)-2019(July) 
-  * Sabbatical in Tilburg University, Dept. of Econometrics and Operations Research
+  * Sabbatical in Tilburg University, Dept. of Econometrics and Operations Research, Tilburg, The Netherlands
 
 * 2018 (June)-2018(July) Visiting researcher in Uncertainty Laboratory 
-  * Tsinghua University
-  * Beijing, China
+  * Tsinghua University, Beijing, China
+  * Duties included: Research
+
 
 * 2015 (Aug.) Visiting researcher in Uncertainty Laboratory
-  * Tsinghua University
-  * Beijing, China
+  * Tsinghua University, Beijing, China
+  * Duties included: Research
 
 * 2009 ( Nov.)- 2017 (Dec.) Associate professor
-  * Azarbaijan Shahid Madani University,
-  * Tabriz, Islamic Republic of Iran
+  * Azarbaijan Shahid Madani University, Tabriz, Islamic Republic of Iran
+  * Duties included: Teaching, Research
+
 
 * 2009- 2013 Adjunct Lecturer of postgraduate department (MBA Program)
-  * University College of Nabi Akram
-  * Tabriz, Iran
+  * University College of Nabi Akram, Tabriz, Iran
+  * Duties included: Teaching
 
-* 2004- 2016 
-  * Adjunct Lecturer of postgraduate department, Payam-e-Noor University, * Tabriz, Iran
+
+* 2004- 2016  Adjunct Lecturer of postgraduate department, 
+  * Payam-e-Noor University, * Tabriz, Iran
+  * Duties included: Teaching, Research
+
 
 * 2007 (Aug.) Visiting researcher in Department of Computing and Software  
-  * McMaster University
-  * Hamilton, Canada
+  * McMaster University, Hamilton, Canada
+  * Duties included:  Research
+
 
 * 2006 (Jul.) Visiting researcher in Department of Computing and Software
- * McMaster University,
- * Hamilton, Canada.
+ * McMaster University,  Hamilton, Canada.\
+  * Duties included: Research
+
 
 * 2006 (Mar.)-2009 ( Nov.) Assistant professor of Mathematic Department
-  * Azarbaijan University of Tarbiat Moallem (former name for Azarbaijan Shahid Madani University)
-  * Tabriz, Iran.
+  * Azarbaijan University of Tarbiat Moallem (former name for Azarbaijan Shahid Madani University),  Tabriz, Iran
+  * Duties included: Teaching, Research
+
 
 * 2004-2006 Assistant Professor
-  * Department of Basic Science and Statistics, Imam Hossain University
-  * Tehran, Iran.
+  * Department of Basic Science and Statistics, Imam Hossain University, Tehran, Iran
+  * Duties included: Teaching, Research
+
 
 * 2004 (Aug.-Sep.) Visiting researcher in Department of Computing and Software
-  * McMaster University
-  * Hamilton, Canada
+  * McMaster University, Hamilton, Canada
+  * Duties included: Research
+
 
 * 2003 (Mar.- Dec.) Visiting Ph.D. student in Department of Computing and Software
-  * McMaster University
-  * Hamilton, Canada
+  * McMaster University, Hamilton, Canada
   * Superviser: Tamas Terlaky
 
 * 1995-1999 Lecturer Department of Basic Science and Statistics
-  * Imam Hossain University,
-  * Tehran, Iran.
+  * Imam Hossain University,  Tehran, Iran
+  * Duties included: Teaching
+
 
 * 1993-1995 Visiting lecturer in Department of Mathematics
-  * Sahand University of Technology ,
-  * Tabriz, Iran.
+  * Sahand University of Technology, Tabriz, Iran
+  * Duties included: Teaching
+
 
 * 1992-1993 Lecturer, Department of Basic Science and Statistics
-  * Imam Hossain University,
-  * Tehran, Iran.  
+  * Imam Hossain University, Tehran, Iran
+  * Duties included: Teaching
+  
   
 Administrative experience
 ======
