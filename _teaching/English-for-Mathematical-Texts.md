@@ -11,6 +11,7 @@ This text is designed for undergraduate students in the mathematics discipline. 
 
 Contents
 ======
+
 | Week | Subjects | Related Preparation |
 |------|----------|---------------------|
 |1|	Selected Topics in Calculus|	Lecture Note, Chapter 1|
@@ -48,6 +49,7 @@ Contents
 
 Evaluation System 
 ======
+
 |Semester Requirements|	Number|	Percentage of Grade|
 |------|----------|---------------------|
 |Attendance/Participation|1|5|
@@ -70,6 +72,7 @@ Evaluation System
 
 Sources
 ======
+
 * You can Download the Course Notes  from here.
 * Download Oxford Math Dictionary from here
 8 Some bilingual math dictionaries from here
