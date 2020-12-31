@@ -105,13 +105,13 @@ Skills
 * Mother tongue: Azeri
 * Other language(s)
   * English (self Assessment)
-   * Speaking Writing: Good, 
-   * Spoken interaction, Spoken production: Good
-   * Writing: Good
+     * Speaking Writing: Good, 
+     * Spoken interaction, Spoken production: Good
+     * Writing: Good
   * Farsi 
-   * Speaking Writing: Native, 
-   * Spoken interaction, Spoken production: Native
-   * Writing: Native 
+     * Speaking Writing: Native, 
+     * Spoken interaction, Spoken production: Native
+     * Writing: Native 
 
 * Computer skills
    * MatLab
