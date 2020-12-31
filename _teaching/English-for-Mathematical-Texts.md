@@ -9,6 +9,8 @@ location: "Tabriz, Iran"
 ---
 This text is designed for undergraduate students in the mathematics discipline. It is from different fields of mathematics to enable them to understand a mathematical text. 
 
+Contents
+======
 | Week | Subjects | Related Preparation |
 |------|----------|---------------------|
 |1|	Selected Topics in Calculus|	Lecture Note, Chapter 1|
@@ -44,11 +46,30 @@ This text is designed for undergraduate students in the mathematics discipline. 
 |16|	Famous problems in Math history| 	 Lecture Note, Chapter 13|
 |------|----------|---------------------|
 
-Heading 1
+Evaluation System 
 ======
+|Semester Requirements|	Number|	Percentage of Grade|
+|------|----------|---------------------|
+|Attendance/Participation|1|5|
+|------|----------|---------------------|
+|Quizzes/Studio Critics|2|10|
+|------|----------|---------------------|
+|Project|2|10|
+|------|----------|---------------------|
+|Midterms/Oral Exams|5|25|
+|------|----------|---------------------|
+|Final/Oral Exam|10|50|
+|------|----------|---------------------|
+|Total|20|100|
+|------|----------|---------------------|
+|PERCENTAGE OF SEMESTER WORK|–|50|
+|------|----------|---------------------|
+|PERCENTAGE OF FINAL WORK|–|50|
+|------|----------|---------------------|
+|Total	|0|	100|
 
-Heading 2
+Sources
 ======
-
-Heading 3
-======
+* You can Download the Course Notes  from here.
+* Download Oxford Math Dictionary from here
+8 Some bilingual math dictionaries from here
