@@ -7,7 +7,7 @@ venue: "Azarbaijan Shahid Madani University, Dept. of Mathematics"
 date: 2020-10-1
 location: "Tabriz, Iran"
 ---
-This text is designed for Ph.D students in the mathematics discipline. It discusses theiry an differnt applications of uncertainty theory. 
+This text is designed for Ph.D students in the mathematics discipline. It discusses the theory and differnt applications of uncertainty theory. 
 
 Contents
 ======
