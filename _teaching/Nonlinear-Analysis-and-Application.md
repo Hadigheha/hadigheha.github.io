@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Analysis and Application"
+title: "Nonlinear Analysis and Application (Uncertainty Theory)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/Nonlinear-Analysis-and-Application
