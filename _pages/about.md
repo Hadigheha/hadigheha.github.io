@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Alireza Ghaffari-Hadigheh is a  Professor in Applied Mathematics. His works are focused on the application of operations research in different areas. His main interests are sensitivity analysis and parametric programming, Supply chain, and uncertain programming. For more information on his recent research interests, see here.
+Alireza Ghaffari-Hadigheh is a  Professor in Applied Mathematics. His works are focused on the application of operations research in different areas. His main interests are sensitivity analysis and parametric programming, Supply chain, and uncertain programming. For more information, see [CV](docs/cv_hadigheh.pdf).
 
 Research Interests in more details
 ======
