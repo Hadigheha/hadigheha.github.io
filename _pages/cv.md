@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[CV in pdf](docs/cv_hadigheh.pdf)
+
 {% include base_path %}
 
 Personal information
