@@ -64,11 +64,11 @@ Evaluation System
 |------|----------|---------------------|
 |Total|20|100|
 |------|----------|---------------------|
-|PERCENTAGE OF SEMESTER WORK|–|90|
+|PERCENTAGE OF SEMESTER WORK|18|90|
 |------|----------|---------------------|
-|PERCENTAGE OF FINAL WORK|–|10|
+|PERCENTAGE OF FINAL WORK|2|10|
 |------|----------|---------------------|
-|Total	|0|	100|
+|Total	|20|	100|
 
 Sources
 ======
