@@ -65,15 +65,15 @@ Evaluation System
 |------|----------|---------------------|
 |Total|20|100|
 |------|----------|---------------------|
-|PERCENTAGE OF SEMESTER WORK|–|90|
+|PERCENTAGE OF SEMESTER WORK|17|85|
 |------|----------|---------------------|
-|PERCENTAGE OF FINAL WORK|–|10|
+|PERCENTAGE OF FINAL WORK|3|15|
 |------|----------|---------------------|
 |Total	|0|	100|
 
 Sources
 ======
 
-* You can Download the Course slides  from [Sec 1](Stochastic/Stoc1.pdf) [Sec 2](Stochastic/Stoc3.pdf) [Sec 3](Stochastic/Stoc3.pdf) [Sec 4](Stochastic/Stoc4.pdf)  [Sec 5](Stochastic/Stoc5.pdf).
+* You can Download the Course slides  from [Sec 1](Stochastic/Stoc1.pdf), [Sec 2](Stochastic/Stoc3.pdf), [Sec 3](Stochastic/Stoc3.pdf), [Sec 4](Stochastic/Stoc4.pdf),  [Sec 5](Stochastic/Stoc5.pdf).
 * Download the textbook from [here](Stochastic/book.pdf)
 * The [contents](Stochastic/contents.pdf) covered in this course 
