@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/Convex-Optimization 
 venue: "Azarbaijan Shahid Madani University, Dept. of Mathematics"
-date: 2020-9-1
+date: 2020-10-1
 location: "Tabriz, Iran"
 ---
 This text is designed for  Ph.D studented in the mathematics discipline. It discusses theory and some application of the convex optimization.
