@@ -76,5 +76,7 @@ location: "تبریز-ایران"
 
 * کتاب را می توانید از  [اینجا](Textbooks/Book-02-17-2020.pdf)
 دانلود کنید.
-* Download Oxford Math Dictionary from [here](http://dl.riazisara.ir/download/daneshgahi/book/Oxford-Dictionary-of-Mathematics.rar).
-* Some bilingual math dictionaries from [here](http://mathsci.blogfa.com/post/32).
+* دیکشنری ریاضی آکسفورد را از [اینجا](http://dl.riazisara.ir/download/daneshgahi/book/Oxford-Dictionary-of-Mathematics.rar)
+دانلود کنید.
+* چند دیکشنری  دو زبانه را از  [اینجا](http://mathsci.blogfa.com/post/32)
+دانلود کنید.
