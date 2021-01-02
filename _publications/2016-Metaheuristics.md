@@ -2,7 +2,7 @@
 title: "A Novel Metaheuristics for Optimization Inspired by Mother-Infant Communication in Animal Colonies"
 collection: publications
 permalink: /publication/2016-Metaheuristics
-excerpt: 'Mother-infant vocalization from distance in some animal species such as bats, gulls and penguins is a basic tool to find the other's location.'
+excerpt: "Mother infant vocalization from distance in some animal spceies as bats, gulls and penguins is a basic tool to find the other's location."
 date: 2016-1-1
 venue: 'Journal of Hyperstructures'
 paperurl: 'http://www.jhs-uma.com/index.php/JHSMS/article/view/251'
