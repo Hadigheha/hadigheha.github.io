@@ -14,8 +14,8 @@ main:
     
   - title: "Books & Book Chapters"
     url: /books/
-#   - title: "Blog Posts"
-#     url: /year-archive/
+   - title: "اطلاعیه ها"
+     url: /year-archive/
     
   - title: "CV"
     url: /cv/
