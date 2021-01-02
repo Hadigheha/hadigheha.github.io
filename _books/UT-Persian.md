@@ -1,7 +1,7 @@
 ---
 title: "Persian Translation of Uncertainty Theory"
 collection: books
-permalink: /books/UT-Persian
+permalink: /books/book_1
 excerpt: "This book is a translation of fifth edition of Uncertainty Theory, by: Baoding Liu. Feel free to share it"
 date: 2019-09-09
 venue: ''
