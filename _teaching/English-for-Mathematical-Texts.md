@@ -1,5 +1,5 @@
 ---
-title: "English for Mathematical Texts"
+title: "زبان تخصصی ریاضی"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/English-for-Mathematical-Texts
@@ -7,12 +7,13 @@ venue: "Azarbaijan Shahid Madani University, Dept. of Mathematics"
 date: 2021-2-1
 location: "Tabriz, Iran"
 ---
-This text is designed for undergraduate students in the mathematics discipline. It is from different fields of mathematics to enable them to understand a mathematical text. 
+این کتاب برای درس زبان تخصصی رشته ریاضی طراحی شده است و شامل متون مختلف از شاخه های مختلف ریاضی است.  علاوه بر ان تمرینات مناسب در هر فصل برای درک بهتر متون آورده شده است. تمامی مطالب از متون  کتاب های منتشر شده  به زبان انگلیسی انتخاب شده است. 
 
-Contents
+
+محتوی درس
 ======
 
-| Week | Subjects | Related Preparation |
+| هفته | موضوع | مطالب |
 |------|----------|---------------------|
 |1|	Selected Topics in Calculus|	Lecture Note, Chapter 1|
 |------|----------|---------------------|
@@ -47,30 +48,30 @@ Contents
 |16|	Famous problems in Math history+Quiz| 	 Lecture Note, Chapter 13|
 |------|----------|---------------------|
 
-Evaluation System 
+روش ارزیابی
 ======
 
-|Semester Requirements|	Number|	Percentage of Grade|
+|الزامات ترم|	نمره|	درصد|
 |------|----------|---------------------|
-|Attendance/Participation|1|5|
+|حضور در کلاس|1|5|
 |------|----------|---------------------|
-|Quizzes/Studio Critics|14|70|
+|امتحانات کلاسی|14|70|
 |------|----------|---------------------|
-|Project|2|10|
+|پروژه|2|10|
 |------|----------|---------------------|
-|Midterms/Oral Exams|2|10|
+|امتحان میانترم|2|10|
 |------|----------|---------------------|
-|Final/Oral Exam|1|10|
+|امتحان پایانترم|1|10|
 |------|----------|---------------------|
-|Total|20|100|
+|کل|20|100|
 |------|----------|---------------------|
-|PERCENTAGE OF SEMESTER WORK|18|90|
+|درصد کار کلاسی|18|90|
 |------|----------|---------------------|
-|PERCENTAGE OF FINAL WORK|2|10|
+|درصد کار پایانی|2|10|
 |------|----------|---------------------|
-|Total	|20|	100|
+|جمع	|20|	100|
 
-Sources
+منابع
 ======
 
 * You can Download the Course Notes  from [here](Textbooks/Book-02-17-2020.pdf).
