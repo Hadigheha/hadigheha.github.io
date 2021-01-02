@@ -1,11 +1,11 @@
 ---
 title: "زبان تخصصی ریاضی"
 collection: teaching
-type: "Undergraduate course"
+type: "درس کارشناسی"
 permalink: /teaching/English-for-Mathematical-Texts
-venue: "Azarbaijan Shahid Madani University, Dept. of Mathematics"
+venue: "دانشگاه شهید مدنی آذربایجان- گروه ریاضی"
 date: 2021-2-1
-location: "Tabriz, Iran"
+location: "تبریز-ایران"
 ---
 این کتاب برای درس زبان تخصصی رشته ریاضی طراحی شده است و شامل متون مختلف از شاخه های مختلف ریاضی است.  علاوه بر ان تمرینات مناسب در هر فصل برای درک بهتر متون آورده شده است. تمامی مطالب از متون  کتاب های منتشر شده  به زبان انگلیسی انتخاب شده است. 
 
@@ -74,6 +74,7 @@ location: "Tabriz, Iran"
 منابع
 ======
 
-* You can Download the Course Notes  from [here](Textbooks/Book-02-17-2020.pdf).
+* کتاب را می توانید از  [اینجا](Textbooks/Book-02-17-2020.pdf)
+دانلود کنید.
 * Download Oxford Math Dictionary from [here](http://dl.riazisara.ir/download/daneshgahi/book/Oxford-Dictionary-of-Mathematics.rar).
 * Some bilingual math dictionaries from [here](http://mathsci.blogfa.com/post/32).
