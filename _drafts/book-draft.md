@@ -1,5 +1,5 @@
 ---
-title: "Interpretation of Different Approaches to Sensitivity Analysis in Cash Flow Problem"
+title: "Sample Title"
 collection: books
 permalink: /books/book_1
 excerpt: 'This is a sample excerpt for the books'
