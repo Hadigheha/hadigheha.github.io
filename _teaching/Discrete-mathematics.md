@@ -1,77 +1,77 @@
 ---
-title: "Discrete mathematics"
+title: "ریاضی گسسته"
 collection: teaching
-type: "Undergraduate course"
+type: "درس کارشناسی"
 permalink: /teaching/Discrete-mathematics
-venue: "Azarbaijan Shahid Madani University, Dept. Information Thechnology"
+venue: "دانشگاه شهید مدنی آذربایجان- گروه فناوری اطلاعات"
 date: 2021-2-1
-location: "Tabriz, Iran"
+location: "تبریز-ایران"
 ---
-This text is designed for undergraduate students in information thechnology  discipline. 
+این کناب به عنوان یک متاب درسی برای درس ریاضی گسسته رشته های فناوری اطلاعات و علوم کاپیوتر و همچنین درس مبانی ترکیبیات برای رشته ریاضی طراحی شده و تمامی سرفصل های پوشش می دهد.  
 
-Contents
+طرح درس هفتگی
 ======
 
-| Week | Subjects | Related Preparation |
+| هفته | موضوعات | مطالب مرتبط  |
 |------|----------|---------------------|
-|1|	Logic and proofs|	Book, Chapter 1|
+|1|	منطق و برهان|	کتاب درسی, فصل 1|
 |------|----------|---------------------|
-|2|	Logic and proofs|	book, Chapter 1|
+|2|	منطق و برهان|	کتاب درسی, فصل 1|
 |------|----------|---------------------|
-|3|	Logic and proofs+Quiz|	book, Chapter 1|
+|3|	منطق و برهان+امتحان کلاسی|	کتاب درسی, فصل 1|
 |------|----------|---------------------|
-|4|	Sets, Functions, and Relations|	book, Chapter 2|
+|4|	مجموعه؛ تابع، رابطه|	کتاب درسی, فصل 2|
 |------|----------|---------------------|
-|5|	Sets, Functions, and Relations|	book, Chapter 2|
+|5|	مجموعه؛ تابع، رابطه|	کتاب درسی, فصل 2|
 |------|----------|---------------------|
-|6|	Sets, Functions, and Relations+Quiz|	book, Chapter 2|
+|6|	مجموعه؛ تابع، رابطه+امتحان کلاسی|	کتاب درسی, فصل 2|
 |------|----------|---------------------|
-|7|	Counting Principles|	book, Chapter 3|
+|7|	اصول شمارش|	کتاب درسی, فصل 3|
 |------|----------|---------------------|
-|8|	Counting Principles +Midterm|	book, Chapter 3|
+|8|	اصول شمارش +امتحان میانترم|	کتاب درسی, فصل 3|
 |------|----------|---------------------|
-|9|	Counting Principles+Quiz|	book, Chapter 3|
+|9|	اصول شمارش+امتحان کلاسی|	کتاب درسی, فصل 3|
 |------|----------|---------------------|
-|10|	Graphs|	book, Chapter 4|
+|10|	گراف|	کتاب درسی, فصل 4|
 |------|----------|---------------------|
-|11|	Graphs|	book, Chapter 4|
+|11|	گراف|	کتاب درسی, فصل 4|
 |------|----------|---------------------|
-|12|	Graphs	+Quiz|book, Chapter 4|
+|12|	گراف	+امتحان کلاسی|کتاب درسی, فصل 4|
 |------|----------|---------------------|
-|13|	Recurrence relation|	book, Chapter 5|
+|13|	رابطه بازگشتی|	کتاب درسی, فصل 5|
 |------|----------|---------------------|
-|14|	Recurrence relation|	book, Chapter 5|
+|14|	رابطه بازگشتی|	کتاب درسی, فصل 5|
 |------|----------|---------------------|
-|15|	Recurrence relation|	 book, Chapter 5|
+|15|	رابطه بازگشتی|	 کتاب درسی, فصل 5|
 |------|----------|---------------------|
-|16|	Recurrence relation+Quiz| 	 book, Chapter 5|
+|16|	رابطه بازگشتی+امتحان کلاسی| 	 کتاب درسی, فصل 5|
 |------|----------|---------------------|
 
-Evaluation System 
+نحوه ارزیابی
 ======
 
-|Semester Requirements|	Number|	Percentage of Grade|
+|الزامات نیمسال|	نمره|	درصد|
 |------|----------|---------------------|
-|Attendance/Participation|1|5|
+|حضور در کلاس|1|5|
 |------|----------|---------------------|
-|Quizzes/Studio Critics|10|50|
+|امتحان کلاسی|10|50|
 |------|----------|---------------------|
-|Project|-|-|
+|پروژه|-|-|
 |------|----------|---------------------|
-|Midterms/Oral Exams|6|30|
+|امتحان میانترم|6|30|
 |------|----------|---------------------|
-|Final/Oral Exam|3|15|
+امتحان نهایی|3|15|
 |------|----------|---------------------|
-|Total|20|100|
+|جمع|20|100|
 |------|----------|---------------------|
-|PERCENTAGE OF SEMESTER WORK|17|85|
+درصد کار حین ترم|17|85|
 |------|----------|---------------------|
-|PERCENTAGE OF FINAL WORK|3|15|
+|درصد امتحان نهایی|3|15|
 |------|----------|---------------------|
-|Total	|20|	100|
+|حمع	|20|	100|
 
-Sources
+منابع
 ======
 
-* You can Download the Course Notes  from [here](Textbooks/Tarkibiyat.pdf).
+* کتاب درسی را می توانید از  [اینجا](Textbooks/Tarkibiyat.pdf) دانلود کنید.
 
