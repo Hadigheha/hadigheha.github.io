@@ -1,12 +1,12 @@
 ---
-title: "Sample Book Title"
+title: "Persian Translation of Uncertainty Theory"
 collection: books
-permalink: /books/book_1
-excerpt: 'This is a sample excerpt for the books'
+permalink: /books/UT-Persian
+excerpt: "This book is a translation of fifth edition of Uncertainty Theory, by: Baoding Liu. Feel free to share it"
 date: 2019-09-09
-venue: 'This is the name of venue'
-paperurl: 'https://google.com'
+venue: ''
+paperurl: 'teaching/ut/ut-persian Translation-2019-08-04.pdf'
 ---
 
 
-Here is the a description about book
+Download the book from [here](teaching/ut/ut-persian Translation-2019-08-04.pdf)
