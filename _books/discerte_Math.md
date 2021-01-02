@@ -2,7 +2,7 @@
 title: "ریاضییات گسسته و ترکیبیات"
 collection: books
 permalink: /books/book_2
-excerpt: "این کناب برای رشته های ریاضی، فتاوری اطلاعات و علوم کامپیوتر به عنوان کتاب درسی طراحی شده است."
+excerpt: "این کتاب برای رشته های ریاضی، فناوری اطلاعات و علوم کامپیوتر به عنوان کتاب درسی طراحی شده است."
 date: 2019-09-09
 venue: ''
 paperurl: 'teaching/Textbooks/Tarkibiyat.pdf'
